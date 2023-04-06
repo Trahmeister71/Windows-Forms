@@ -1,0 +1,11 @@
+D:\Windows Forms\Viktorina\Viktorina\bin\Debug\Viktorina.exe.config
+D:\Windows Forms\Viktorina\Viktorina\bin\Debug\Viktorina.exe
+D:\Windows Forms\Viktorina\Viktorina\bin\Debug\Viktorina.pdb
+D:\Windows Forms\Viktorina\Viktorina\obj\Debug\Viktorina.csproj.AssemblyReference.cache
+D:\Windows Forms\Viktorina\Viktorina\obj\Debug\Viktorina.csproj.SuggestedBindingRedirects.cache
+D:\Windows Forms\Viktorina\Viktorina\obj\Debug\Viktorina.Form1.resources
+D:\Windows Forms\Viktorina\Viktorina\obj\Debug\Viktorina.Properties.Resources.resources
+D:\Windows Forms\Viktorina\Viktorina\obj\Debug\Viktorina.csproj.GenerateResource.cache
+D:\Windows Forms\Viktorina\Viktorina\obj\Debug\Viktorina.csproj.CoreCompileInputs.cache
+D:\Windows Forms\Viktorina\Viktorina\obj\Debug\Viktorina.exe
+D:\Windows Forms\Viktorina\Viktorina\obj\Debug\Viktorina.pdb

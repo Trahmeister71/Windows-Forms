@@ -1,0 +1,11 @@
+D:\Windows Forms\DZ1\DZ1\bin\Debug\DZ1.exe.config
+D:\Windows Forms\DZ1\DZ1\bin\Debug\DZ1.exe
+D:\Windows Forms\DZ1\DZ1\bin\Debug\DZ1.pdb
+D:\Windows Forms\DZ1\DZ1\obj\Debug\DZ1.csproj.AssemblyReference.cache
+D:\Windows Forms\DZ1\DZ1\obj\Debug\DZ1.csproj.SuggestedBindingRedirects.cache
+D:\Windows Forms\DZ1\DZ1\obj\Debug\DZ1.Properties.Resources.resources
+D:\Windows Forms\DZ1\DZ1\obj\Debug\DZ1.csproj.GenerateResource.cache
+D:\Windows Forms\DZ1\DZ1\obj\Debug\DZ1.csproj.CoreCompileInputs.cache
+D:\Windows Forms\DZ1\DZ1\obj\Debug\DZ1.exe
+D:\Windows Forms\DZ1\DZ1\obj\Debug\DZ1.pdb
+D:\Windows Forms\DZ1\DZ1\obj\Debug\DZ1.Form1.resources
