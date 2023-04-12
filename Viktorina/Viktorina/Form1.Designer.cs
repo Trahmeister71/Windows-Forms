@@ -76,6 +76,18 @@
             this.label3 = new System.Windows.Forms.Label();
             this.groupBox9 = new System.Windows.Forms.GroupBox();
             this.groupBox10 = new System.Windows.Forms.GroupBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
+            this.button3 = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -193,7 +205,6 @@
             this.checkBox1.TabIndex = 5;
             this.checkBox1.Text = "Тесто";
             this.checkBox1.UseVisualStyleBackColor = true;
-            this.checkBox1.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // checkBox2
             // 
@@ -204,7 +215,6 @@
             this.checkBox2.TabIndex = 6;
             this.checkBox2.Text = "Помидоры";
             this.checkBox2.UseVisualStyleBackColor = true;
-            this.checkBox2.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // checkBox3
             // 
@@ -215,7 +225,6 @@
             this.checkBox3.TabIndex = 7;
             this.checkBox3.Text = "Сыр";
             this.checkBox3.UseVisualStyleBackColor = true;
-            this.checkBox3.CheckedChanged += new System.EventHandler(this.checkBox1_CheckedChanged);
             // 
             // groupBox3
             // 
@@ -251,6 +260,7 @@
             this.radioButton8.TabStop = true;
             this.radioButton8.Text = "10";
             this.radioButton8.UseVisualStyleBackColor = true;
+            this.radioButton8.CheckedChanged += new System.EventHandler(this.radioButton9_CheckedChanged);
             // 
             // radioButton7
             // 
@@ -261,6 +271,7 @@
             this.radioButton7.TabIndex = 0;
             this.radioButton7.Text = "100";
             this.radioButton7.UseVisualStyleBackColor = true;
+            this.radioButton7.CheckedChanged += new System.EventHandler(this.radioButton9_CheckedChanged);
             // 
             // groupBox4
             // 
@@ -284,6 +295,7 @@
             this.radioButton12.TabStop = true;
             this.radioButton12.Text = "Трансформеры";
             this.radioButton12.UseVisualStyleBackColor = true;
+            this.radioButton12.CheckedChanged += new System.EventHandler(this.radioButton11_CheckedChanged);
             // 
             // radioButton11
             // 
@@ -306,6 +318,7 @@
             this.radioButton10.TabIndex = 0;
             this.radioButton10.Text = "Начало";
             this.radioButton10.UseVisualStyleBackColor = true;
+            this.radioButton10.CheckedChanged += new System.EventHandler(this.radioButton11_CheckedChanged);
             // 
             // pictureBox1
             // 
@@ -338,6 +351,7 @@
             this.radioButton15.TabIndex = 2;
             this.radioButton15.Text = "Тигр";
             this.radioButton15.UseVisualStyleBackColor = true;
+            this.radioButton15.CheckedChanged += new System.EventHandler(this.radioButton14_CheckedChanged);
             // 
             // radioButton14
             // 
@@ -359,6 +373,7 @@
             this.radioButton13.TabIndex = 0;
             this.radioButton13.Text = "Слон";
             this.radioButton13.UseVisualStyleBackColor = true;
+            this.radioButton13.CheckedChanged += new System.EventHandler(this.radioButton14_CheckedChanged);
             // 
             // groupBox6
             // 
@@ -394,6 +409,7 @@
             this.radioButton17.TabStop = true;
             this.radioButton17.Text = "Япония";
             this.radioButton17.UseVisualStyleBackColor = true;
+            this.radioButton17.CheckedChanged += new System.EventHandler(this.radioButton18_CheckedChanged);
             // 
             // radioButton16
             // 
@@ -404,6 +420,7 @@
             this.radioButton16.TabIndex = 0;
             this.radioButton16.Text = "Франция";
             this.radioButton16.UseVisualStyleBackColor = true;
+            this.radioButton16.CheckedChanged += new System.EventHandler(this.radioButton18_CheckedChanged);
             // 
             // groupBox7
             // 
@@ -427,6 +444,7 @@
             this.radioButton21.TabStop = true;
             this.radioButton21.Text = "RAM";
             this.radioButton21.UseVisualStyleBackColor = true;
+            this.radioButton21.CheckedChanged += new System.EventHandler(this.radioButton19_CheckedChanged);
             // 
             // radioButton20
             // 
@@ -437,6 +455,7 @@
             this.radioButton20.TabIndex = 1;
             this.radioButton20.Text = "CPU";
             this.radioButton20.UseVisualStyleBackColor = true;
+            this.radioButton20.CheckedChanged += new System.EventHandler(this.radioButton19_CheckedChanged);
             // 
             // radioButton19
             // 
@@ -458,7 +477,6 @@
             this.checkBox4.TabIndex = 13;
             this.checkBox4.Text = "Assasin\'s Creed";
             this.checkBox4.UseVisualStyleBackColor = true;
-            this.checkBox4.CheckedChanged += new System.EventHandler(this.checkBox4_CheckedChanged);
             // 
             // checkBox5
             // 
@@ -469,7 +487,6 @@
             this.checkBox5.TabIndex = 14;
             this.checkBox5.Text = "Heroes of Might and Magic";
             this.checkBox5.UseVisualStyleBackColor = true;
-            this.checkBox5.CheckedChanged += new System.EventHandler(this.checkBox4_CheckedChanged);
             // 
             // checkBox6
             // 
@@ -480,7 +497,6 @@
             this.checkBox6.TabIndex = 15;
             this.checkBox6.Text = "Resident Evil";
             this.checkBox6.UseVisualStyleBackColor = true;
-            this.checkBox6.CheckedChanged += new System.EventHandler(this.checkBox4_CheckedChanged);
             // 
             // button1
             // 
@@ -515,6 +531,7 @@
             this.radioButton22.TabStop = true;
             this.radioButton22.Text = "4";
             this.radioButton22.UseVisualStyleBackColor = true;
+            this.radioButton22.CheckedChanged += new System.EventHandler(this.radioButton23_CheckedChanged);
             // 
             // radioButton23
             // 
@@ -537,6 +554,7 @@
             this.radioButton24.TabStop = true;
             this.radioButton24.Text = "6";
             this.radioButton24.UseVisualStyleBackColor = true;
+            this.radioButton24.CheckedChanged += new System.EventHandler(this.radioButton23_CheckedChanged);
             // 
             // progressBar1
             // 
@@ -568,8 +586,9 @@
             this.label3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.label3.Location = new System.Drawing.Point(237, 510);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(2, 15);
+            this.label3.Size = new System.Drawing.Size(15, 15);
             this.label3.TabIndex = 20;
+            this.label3.Text = "1";
             this.label3.Visible = false;
             // 
             // groupBox9
@@ -596,11 +615,143 @@
             this.groupBox10.TabStop = false;
             this.groupBox10.Text = "9) Какие игры принадлежат Ubisoft";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(217, 78);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.TabIndex = 22;
+            this.label1.Text = "label1";
+            this.label1.Visible = false;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(225, 205);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(35, 13);
+            this.label2.TabIndex = 23;
+            this.label2.Text = "label2";
+            this.label2.Visible = false;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(225, 324);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(35, 13);
+            this.label4.TabIndex = 24;
+            this.label4.Text = "label4";
+            this.label4.Visible = false;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(537, 55);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(35, 13);
+            this.label5.TabIndex = 25;
+            this.label5.Text = "label5";
+            this.label5.Visible = false;
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(537, 205);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(35, 13);
+            this.label6.TabIndex = 26;
+            this.label6.Text = "label6";
+            this.label6.Visible = false;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(668, 322);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(35, 13);
+            this.label7.TabIndex = 27;
+            this.label7.Text = "label7";
+            this.label7.Visible = false;
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(947, 55);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(35, 13);
+            this.label8.TabIndex = 28;
+            this.label8.Text = "label8";
+            this.label8.Visible = false;
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(947, 205);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(35, 13);
+            this.label9.TabIndex = 29;
+            this.label9.Text = "label9";
+            this.label9.Visible = false;
+            // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(947, 322);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(41, 13);
+            this.label10.TabIndex = 30;
+            this.label10.Text = "label10";
+            this.label10.Visible = false;
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(234, 476);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(41, 13);
+            this.label11.TabIndex = 31;
+            this.label11.Text = "label11";
+            this.label11.Visible = false;
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(937, 348);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(87, 24);
+            this.button3.TabIndex = 33;
+            this.button3.Text = "Подтвердить";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(218, 347);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(85, 23);
+            this.button2.TabIndex = 34;
+            this.button2.Text = "Подтвердить";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1013, 636);
+            this.ClientSize = new System.Drawing.Size(1034, 623);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.label11);
+            this.Controls.Add(this.label10);
+            this.Controls.Add(this.label9);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox10);
             this.Controls.Add(this.groupBox9);
             this.Controls.Add(this.label3);
@@ -692,6 +843,18 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.GroupBox groupBox9;
         private System.Windows.Forms.GroupBox groupBox10;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label11;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button2;
     }
 }
 

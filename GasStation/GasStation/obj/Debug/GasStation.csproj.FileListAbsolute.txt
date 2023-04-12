@@ -1,0 +1,17 @@
+D:\WindowsForms\GasStation\GasStation\bin\Debug\GasStation.exe.config
+D:\WindowsForms\GasStation\GasStation\bin\Debug\GasStation.exe
+D:\WindowsForms\GasStation\GasStation\bin\Debug\GasStation.pdb
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.csproj.AssemblyReference.cache
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.Form1.resources
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.Properties.Resources.resources
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.csproj.GenerateResource.cache
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.csproj.CoreCompileInputs.cache
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.exe
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.pdb
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.Form2.resources
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.Form3.resources
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.Form4.resources
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.Form5.resources
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.Form6.resources
+D:\WindowsForms\GasStation\GasStation\obj\Debug\GasStation.Form7.resources

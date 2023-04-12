@@ -1,0 +1,12 @@
+D:\WindowsForms\ModalForm\ModalForm\bin\Debug\ModalForm.exe.config
+D:\WindowsForms\ModalForm\ModalForm\bin\Debug\ModalForm.exe
+D:\WindowsForms\ModalForm\ModalForm\bin\Debug\ModalForm.pdb
+D:\WindowsForms\ModalForm\ModalForm\obj\Debug\ModalForm.csproj.AssemblyReference.cache
+D:\WindowsForms\ModalForm\ModalForm\obj\Debug\ModalForm.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\ModalForm\ModalForm\obj\Debug\ModalForm.Form1.resources
+D:\WindowsForms\ModalForm\ModalForm\obj\Debug\ModalForm.Form2.resources
+D:\WindowsForms\ModalForm\ModalForm\obj\Debug\ModalForm.Properties.Resources.resources
+D:\WindowsForms\ModalForm\ModalForm\obj\Debug\ModalForm.csproj.GenerateResource.cache
+D:\WindowsForms\ModalForm\ModalForm\obj\Debug\ModalForm.csproj.CoreCompileInputs.cache
+D:\WindowsForms\ModalForm\ModalForm\obj\Debug\ModalForm.exe
+D:\WindowsForms\ModalForm\ModalForm\obj\Debug\ModalForm.pdb

@@ -1,0 +1,11 @@
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\bin\Debug\ListBoxAnketa.exe.config
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\bin\Debug\ListBoxAnketa.exe
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\bin\Debug\ListBoxAnketa.pdb
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\obj\Debug\ListBoxAnketa.csproj.AssemblyReference.cache
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\obj\Debug\ListBoxAnketa.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\obj\Debug\ListBoxAnketa.Form1.resources
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\obj\Debug\ListBoxAnketa.Properties.Resources.resources
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\obj\Debug\ListBoxAnketa.csproj.GenerateResource.cache
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\obj\Debug\ListBoxAnketa.csproj.CoreCompileInputs.cache
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\obj\Debug\ListBoxAnketa.exe
+D:\WindowsForms\ListBoxAnketa\ListBoxAnketa\obj\Debug\ListBoxAnketa.pdb

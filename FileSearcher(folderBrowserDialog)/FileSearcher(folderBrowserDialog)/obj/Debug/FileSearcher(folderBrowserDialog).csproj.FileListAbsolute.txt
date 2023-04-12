@@ -1,0 +1,11 @@
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\bin\Debug\FileSearcher(folderBrowserDialog).exe.config
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\bin\Debug\FileSearcher(folderBrowserDialog).exe
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\bin\Debug\FileSearcher(folderBrowserDialog).pdb
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\obj\Debug\FileSearcher(folderBrowserDialog).csproj.AssemblyReference.cache
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\obj\Debug\FileSearcher(folderBrowserDialog).csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\obj\Debug\FileSearcher_folderBrowserDialog_.Form1.resources
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\obj\Debug\FileSearcher_folderBrowserDialog_.Properties.Resources.resources
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\obj\Debug\FileSearcher(folderBrowserDialog).csproj.GenerateResource.cache
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\obj\Debug\FileSearcher(folderBrowserDialog).csproj.CoreCompileInputs.cache
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\obj\Debug\FileSearcher(folderBrowserDialog).exe
+D:\WindowsForms\FileSearcher(folderBrowserDialog)\FileSearcher(folderBrowserDialog)\obj\Debug\FileSearcher(folderBrowserDialog).pdb

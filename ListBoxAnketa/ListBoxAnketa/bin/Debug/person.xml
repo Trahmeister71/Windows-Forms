@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Nikita</Name>
+    <Surname>Lichkun</Surname>
+    <Email>dsdsdsdsd@ssds.dsds</Email>
+    <Phone>(111)-111-1111</Phone>
+  </Person>
+  <Person>
+    <Name> Cockroach</Name>
+    <Surname>Sim</Surname>
+    <Email>povar123@gmail.com</Email>
+    <Phone>(123)-231-2321</Phone>
+  </Person>
+</ArrayOfPerson>

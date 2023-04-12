@@ -1,0 +1,11 @@
+D:\WindowsForms\Accounts\Accounts\bin\Debug\Accounts.exe.config
+D:\WindowsForms\Accounts\Accounts\bin\Debug\Accounts.exe
+D:\WindowsForms\Accounts\Accounts\bin\Debug\Accounts.pdb
+D:\WindowsForms\Accounts\Accounts\obj\Debug\Accounts.csproj.AssemblyReference.cache
+D:\WindowsForms\Accounts\Accounts\obj\Debug\Accounts.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\Accounts\Accounts\obj\Debug\Accounts.Form1.resources
+D:\WindowsForms\Accounts\Accounts\obj\Debug\Accounts.Properties.Resources.resources
+D:\WindowsForms\Accounts\Accounts\obj\Debug\Accounts.csproj.GenerateResource.cache
+D:\WindowsForms\Accounts\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+D:\WindowsForms\Accounts\Accounts\obj\Debug\Accounts.exe
+D:\WindowsForms\Accounts\Accounts\obj\Debug\Accounts.pdb
