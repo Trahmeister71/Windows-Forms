@@ -1,0 +1,12 @@
+D:\WindowsForms\FileDialogs\FileDialogs\bin\Debug\FileDialogs.exe.config
+D:\WindowsForms\FileDialogs\FileDialogs\bin\Debug\FileDialogs.exe
+D:\WindowsForms\FileDialogs\FileDialogs\bin\Debug\FileDialogs.pdb
+D:\WindowsForms\FileDialogs\FileDialogs\obj\Debug\FileDialogs.csproj.AssemblyReference.cache
+D:\WindowsForms\FileDialogs\FileDialogs\obj\Debug\FileDialogs.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\FileDialogs\FileDialogs\obj\Debug\FileDialogs.Form1.resources
+D:\WindowsForms\FileDialogs\FileDialogs\obj\Debug\FileDialogs.Properties.Resources.resources
+D:\WindowsForms\FileDialogs\FileDialogs\obj\Debug\FileDialogs.csproj.GenerateResource.cache
+D:\WindowsForms\FileDialogs\FileDialogs\obj\Debug\FileDialogs.csproj.CoreCompileInputs.cache
+D:\WindowsForms\FileDialogs\FileDialogs\obj\Debug\FileDialogs.exe
+D:\WindowsForms\FileDialogs\FileDialogs\obj\Debug\FileDialogs.pdb
+D:\WindowsForms\FileDialogs\FileDialogs\obj\Debug\FileDialogs.Form2.resources

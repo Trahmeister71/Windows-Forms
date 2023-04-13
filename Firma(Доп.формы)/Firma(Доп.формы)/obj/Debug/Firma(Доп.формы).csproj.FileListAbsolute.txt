@@ -1,0 +1,12 @@
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\bin\Debug\Firma(Доп.формы).exe.config
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\bin\Debug\Firma(Доп.формы).exe
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\bin\Debug\Firma(Доп.формы).pdb
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\obj\Debug\Firma(Доп.формы).csproj.AssemblyReference.cache
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\obj\Debug\Firma(Доп.формы).csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\obj\Debug\Firma_Доп.формы_.Properties.Resources.resources
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\obj\Debug\Firma_Доп.формы_.Form1.resources
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\obj\Debug\Firma(Доп.формы).csproj.GenerateResource.cache
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\obj\Debug\Firma(Доп.формы).csproj.CoreCompileInputs.cache
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\obj\Debug\Firma(Доп.формы).exe
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\obj\Debug\Firma(Доп.формы).pdb
+D:\WindowsForms\Firma(Доп.формы)\Firma(Доп.формы)\obj\Debug\Firma_Доп.формы_.Редакция_товаров.resources
