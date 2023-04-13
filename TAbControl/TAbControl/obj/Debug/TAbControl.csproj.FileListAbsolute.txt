@@ -1,0 +1,11 @@
+D:\WindowsForms\TAbControl\TAbControl\bin\Debug\TAbControl.exe.config
+D:\WindowsForms\TAbControl\TAbControl\bin\Debug\TAbControl.exe
+D:\WindowsForms\TAbControl\TAbControl\bin\Debug\TAbControl.pdb
+D:\WindowsForms\TAbControl\TAbControl\obj\Debug\TAbControl.csproj.AssemblyReference.cache
+D:\WindowsForms\TAbControl\TAbControl\obj\Debug\TAbControl.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\TAbControl\TAbControl\obj\Debug\TAbControl.Form1.resources
+D:\WindowsForms\TAbControl\TAbControl\obj\Debug\TAbControl.Properties.Resources.resources
+D:\WindowsForms\TAbControl\TAbControl\obj\Debug\TAbControl.csproj.GenerateResource.cache
+D:\WindowsForms\TAbControl\TAbControl\obj\Debug\TAbControl.csproj.CoreCompileInputs.cache
+D:\WindowsForms\TAbControl\TAbControl\obj\Debug\TAbControl.exe
+D:\WindowsForms\TAbControl\TAbControl\obj\Debug\TAbControl.pdb
