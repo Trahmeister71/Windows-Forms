@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+<ArrayOfQuestion xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Question>
+    <Text>Как называется главный герой романа Льва Толстого 'Война и мир'?</Text>
+    <Answers>
+      <string>Андрей Болконский</string>
+      <string>Пьер Безухов</string>
+      <string>Наташа Ростова</string>
+      <string>Анна Каренина</string>
+    </Answers>
+    <CorrectAnswerIndex>1</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какой элемент периодической таблицы химических элементов имеет символ 'C'?</Text>
+    <Answers>
+      <string>Кислород</string>
+      <string>Углерод</string>
+      <string>Кальций</string>
+      <string>Калий</string>
+    </Answers>
+    <CorrectAnswerIndex>1</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какое из этих животных не является насекомым?</Text>
+    <Answers>
+      <string>Комар</string>
+      <string>Скорпион</string>
+      <string>Жук</string>
+      <string>Пчела</string>
+    </Answers>
+    <CorrectAnswerIndex>1</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Кто написал роман '1984'?</Text>
+    <Answers>
+      <string>Эрнест Хемингуэй</string>
+      <string>Джон Стейнбек</string>
+      <string>Джордж Оруэлл</string>
+      <string>Рэй Брэдбери</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>В каком году состоялось первое чемпионат мира по футболу?</Text>
+    <Answers>
+      <string>1930</string>
+      <string>1950</string>
+      <string>1970</string>
+      <string>1990</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется самая большая пустыня в мире?</Text>
+    <Answers>
+      <string>Сахара</string>
+      <string>Атакама</string>
+      <string>Гоби</string>
+      <string>Антарктида</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется самое большое озеро в мире?</Text>
+    <Answers>
+      <string>Байкал</string>
+      <string>Виктория</string>
+      <string>Гурон</string>
+      <string>Мичиган</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Кто из этих художников не был представителем импрессионизма?</Text>
+    <Answers>
+      <string>Клод Моне</string>
+      <string>Эдуард Мане</string>
+      <string>Поль Сезанн</string>
+      <string>Винсент Ван Гог</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какое из этих произведений не является трагедией Шекспира?</Text>
+    <Answers>
+      <string>Ромео и Джульетта</string>
+      <string>Гамлет</string>
+      <string>Отелло</string>
+      <string>Макбет</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>3</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется язык программирования, созданный Ларри Уоллом и выпущенный в 1987 году?</Text>
+    <Answers>
+      <string>Java</string>
+      <string>C++</string>
+      <string>Perl</string>
+      <string>Python</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>3</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какое событие вызвало начало Первой мировой войны?</Text>
+    <Answers>
+      <string>Убийство архидука Франц-Фердинанда</string>
+      <string>Подписание Договора о ненападении между Германией и СССР</string>
+      <string>Нападение Японии на США в Пёрл-Харборе</string>
+      <string>Принятие Резолюции ООН о создании Израиля</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>3</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Кто является автором романа 'Атлант расправил плечи'?</Text>
+    <Answers>
+      <string>Эйн Рэнд</string>
+      <string>Оскар Уайльд</string>
+      <string>Фрэнсис Скотт Фицджеральд</string>
+      <string>Эрнест Хемингуэй</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>4</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какой физик сформулировал три закона механики?</Text>
+    <Answers>
+      <string>Исаак Ньютон</string>
+      <string>Альберт Эйнштейн</string>
+      <string>Макс Планк</string>
+      <string>Нильс Бор</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>4</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какой химический элемент был назван в честь героя греческой мифологии?</Text>
+    <Answers>
+      <string>Торий</string>
+      <string>Керий</string>
+      <string>Прометий</string>
+      <string>Икарий</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>5</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какой астрономический объект был открыт в 1930 году и потом был позже лишен своего статуса планеты?</Text>
+    <Answers>
+      <string>Уран</string>
+      <string>Нептун</string>
+      <string>Плутон</string>
+      <string>Хаумеа</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>5</DifficultyLevel>
+  </Question>
+</ArrayOfQuestion>

@@ -1,0 +1,11 @@
+D:\WindowsForms\ThreadsLab\ThreadsLab\bin\Debug\ThreadsLab.exe.config
+D:\WindowsForms\ThreadsLab\ThreadsLab\bin\Debug\ThreadsLab.exe
+D:\WindowsForms\ThreadsLab\ThreadsLab\bin\Debug\ThreadsLab.pdb
+D:\WindowsForms\ThreadsLab\ThreadsLab\obj\Debug\ThreadsLab.csproj.AssemblyReference.cache
+D:\WindowsForms\ThreadsLab\ThreadsLab\obj\Debug\ThreadsLab.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\ThreadsLab\ThreadsLab\obj\Debug\ThreadsLab.Form1.resources
+D:\WindowsForms\ThreadsLab\ThreadsLab\obj\Debug\ThreadsLab.Properties.Resources.resources
+D:\WindowsForms\ThreadsLab\ThreadsLab\obj\Debug\ThreadsLab.csproj.GenerateResource.cache
+D:\WindowsForms\ThreadsLab\ThreadsLab\obj\Debug\ThreadsLab.csproj.CoreCompileInputs.cache
+D:\WindowsForms\ThreadsLab\ThreadsLab\obj\Debug\ThreadsLab.exe
+D:\WindowsForms\ThreadsLab\ThreadsLab\obj\Debug\ThreadsLab.pdb

@@ -1,0 +1,11 @@
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\bin\Debug\ThreadsInvoke.exe.config
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\bin\Debug\ThreadsInvoke.exe
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\bin\Debug\ThreadsInvoke.pdb
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\obj\Debug\ThreadsInvoke.csproj.AssemblyReference.cache
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\obj\Debug\ThreadsInvoke.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\obj\Debug\ThreadsInvoke.Form1.resources
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\obj\Debug\ThreadsInvoke.Properties.Resources.resources
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\obj\Debug\ThreadsInvoke.csproj.GenerateResource.cache
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\obj\Debug\ThreadsInvoke.csproj.CoreCompileInputs.cache
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\obj\Debug\ThreadsInvoke.exe
+D:\WindowsForms\ThreadsInvoke\ThreadsInvoke\obj\Debug\ThreadsInvoke.pdb

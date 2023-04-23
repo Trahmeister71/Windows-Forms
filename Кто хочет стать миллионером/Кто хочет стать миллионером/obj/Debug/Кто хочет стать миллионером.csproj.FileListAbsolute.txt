@@ -1,0 +1,11 @@
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\bin\Debug\Кто хочет стать миллионером.exe.config
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\bin\Debug\Кто хочет стать миллионером.exe
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\bin\Debug\Кто хочет стать миллионером.pdb
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\obj\Debug\Кто хочет стать миллионером.csproj.AssemblyReference.cache
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\obj\Debug\Кто хочет стать миллионером.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\obj\Debug\Кто_хочет_стать_миллионером.Form1.resources
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\obj\Debug\Кто_хочет_стать_миллионером.Properties.Resources.resources
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\obj\Debug\Кто хочет стать миллионером.csproj.GenerateResource.cache
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\obj\Debug\Кто хочет стать миллионером.csproj.CoreCompileInputs.cache
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\obj\Debug\Кто хочет стать миллионером.exe
+D:\WindowsForms\Кто хочет стать миллионером\Кто хочет стать миллионером\obj\Debug\Кто хочет стать миллионером.pdb
