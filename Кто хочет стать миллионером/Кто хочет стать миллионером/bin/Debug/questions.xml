@@ -45,6 +45,182 @@
     <DifficultyLevel>1</DifficultyLevel>
   </Question>
   <Question>
+    <Text>Как называется столица Франции?</Text>
+    <Answers>
+      <string>Мадрид</string>
+      <string>Лондон</string>
+      <string>Париж</string>
+      <string>Рим</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Кто является автором романа 'Гарри Поттер и философский камень'?</Text>
+    <Answers>
+      <string>Дж. Р. Р. Толкин</string>
+      <string>Джордж Р. Р. Мартин</string>
+      <string>Джоан Роулинг</string>
+      <string>Джон Рональд Руэл Толкин</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется самая большая пустыня в мире?</Text>
+    <Answers>
+      <string>Гоби</string>
+      <string>Каракумы</string>
+      <string>Атакама</string>
+      <string>Сахара</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какое море является самым большим в мире?</Text>
+    <Answers>
+      <string>Красное море</string>
+      <string>Аравийское море</string>
+      <string>Средиземное море</string>
+      <string>Тихий океан</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется столица Италии?</Text>
+    <Answers>
+      <string>Мадрид</string>
+      <string>Лондон</string>
+      <string>Париж</string>
+      <string>Рим</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется собака в мультфильме 'Том и Джерри'?</Text>
+    <Answers>
+      <string>Спайк</string>
+      <string>Барбос</string>
+      <string>Шарик</string>
+      <string>Рекс</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Кто является автором романа 'Поднятая целина'?</Text>
+    <Answers>
+      <string>Федор Достоевский</string>
+      <string>Лев Толстой</string>
+      <string>Михаил Лермонтов</string>
+      <string>Михаил Шолохов</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какое животное является символом компании Twitter?</Text>
+    <Answers>
+      <string>Синица</string>
+      <string>Ласточка</string>
+      <string>Сорока</string>
+      <string>Голубь</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>1</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется процесс, при котором светильник начинает мерцать при увеличении тока?</Text>
+    <Answers>
+      <string>Фотоэффект</string>
+      <string>Гальваномагнитный эффект</string>
+      <string>Эффект Джоуля</string>
+      <string>Электролюминесценция</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какое из следующих чисел является простым: 87, 97, 107, 117?</Text>
+    <Answers>
+      <string>87</string>
+      <string>97</string>
+      <string>107</string>
+      <string>117</string>
+    </Answers>
+    <CorrectAnswerIndex>1</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какое языковое семейство относится к языку греческий?</Text>
+    <Answers>
+      <string>Германское</string>
+      <string>Индоевропейское</string>
+      <string>Финно-угорское</string>
+      <string>Славянское</string>
+    </Answers>
+    <CorrectAnswerIndex>1</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется язык программирования, разработанный Google?</Text>
+    <Answers>
+      <string>Java</string>
+      <string>Python</string>
+      <string>Ruby</string>
+      <string>Go</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется наука, которая изучает жизненные процессы в организмах?</Text>
+    <Answers>
+      <string>Геология</string>
+      <string>Ботаника</string>
+      <string>Физика</string>
+      <string>Биология</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какое из следующих выражений является антонимом слова 'безупречный':</Text>
+    <Answers>
+      <string>Совершенный</string>
+      <string>Несовершенный</string>
+      <string>Отличный</string>
+      <string>Превосходный</string>
+    </Answers>
+    <CorrectAnswerIndex>1</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется наибольший сплав золота?</Text>
+    <Answers>
+      <string>Карат</string>
+      <string>Платина</string>
+      <string>Органическое стекло</string>
+      <string>Бронза</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какой год был принят как начало новой эры в западной историографии?</Text>
+    <Answers>
+      <string>1 год до нашей эры</string>
+      <string>1 год нашей эры</string>
+      <string>476 год нашей эры</string>
+      <string>800 год нашей эры</string>
+    </Answers>
+    <CorrectAnswerIndex>1</CorrectAnswerIndex>
+    <DifficultyLevel>2</DifficultyLevel>
+  </Question>
+  <Question>
     <Text>В каком году состоялось первое чемпионат мира по футболу?</Text>
     <Answers>
       <string>1930</string>
@@ -111,6 +287,83 @@
     <DifficultyLevel>3</DifficultyLevel>
   </Question>
   <Question>
+    <Text>Кто из перечисленных является основателем теории общественного договора?</Text>
+    <Answers>
+      <string>Рене Декарт</string>
+      <string>Джон Локк</string>
+      <string>Джон Стюарт Милль</string>
+      <string>Иммануил Кант</string>
+    </Answers>
+    <CorrectAnswerIndex>1</CorrectAnswerIndex>
+    <DifficultyLevel>3</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется теория, которая гласит, что все существующее можно разложить на более мелкие компоненты?</Text>
+    <Answers>
+      <string>Теория относительности</string>
+      <string>Квантовая механика</string>
+      <string>Теория эволюции</string>
+      <string>Атомизм</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>3</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какое из следующих искусств является наиболее старым?</Text>
+    <Answers>
+      <string>Литература</string>
+      <string>Архитектура</string>
+      <string>Музыка</string>
+      <string>Живопись</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>3</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какое из следующих устройств можно использовать для получения информации о скорости автомобиля?</Text>
+    <Answers>
+      <string>Барометр</string>
+      <string>Термометр</string>
+      <string>Гидрометр</string>
+      <string>Спидометр</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>3</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какая из следующих планет является самой большой по диаметру?</Text>
+    <Answers>
+      <string>Венера</string>
+      <string>Марс</string>
+      <string>Юпитер</string>
+      <string>Уран</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>3</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется четвертое измерение в геометрии?</Text>
+    <Answers>
+      <string>Ширина</string>
+      <string>Длина</string>
+      <string>Высота</string>
+      <string>Время</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>3</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Какой химический элемент был назван в честь великого открытия?</Text>
+    <Answers>
+      <string>Америций</string>
+      <string>Кюрий</string>
+      <string>Эйнштейний</string>
+      <string>Менделевий</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>3</DifficultyLevel>
+  </Question>
+  <Question>
     <Text>Какое событие вызвало начало Первой мировой войны?</Text>
     <Answers>
       <string>Убийство архидука Франц-Фердинанда</string>
@@ -144,12 +397,133 @@
     <DifficultyLevel>4</DifficultyLevel>
   </Question>
   <Question>
+    <Text>Как называется известная философская концепция, утверждающая, что каждый язык описывает мир по-своему?</Text>
+    <Answers>
+      <string>Деконструктивизм</string>
+      <string>Лингвистический поворот</string>
+      <string>Логический позитивизм</string>
+      <string>Философия языка</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>4</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется метод, который используется для вычисления предельных значений функций?</Text>
+    <Answers>
+      <string>Метод дифференциальных уравнений</string>
+      <string>Метод вариационных принципов</string>
+      <string>Метод конечных элементов</string>
+      <string>Метод интегральных сумм</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>4</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется печенье, которое используется в качестве идентификатора пользователя на сайтах?</Text>
+    <Answers>
+      <string>Файлы cookies</string>
+      <string>Файлы XML</string>
+      <string>Серверные сеансы</string>
+      <string>Пользовательские агенты</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>4</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется уравнение, которое описывает распространение тепла в твёрдом теле?</Text>
+    <Answers>
+      <string>Уравнение теплопроводности</string>
+      <string>Уравнение Навье-Стокса</string>
+      <string>Уравнение Максвелла</string>
+      <string>Уравнение Шредингера</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>4</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется феномен, при котором электромагнитные волны с большой длиной проникают в здания и препятствия?</Text>
+    <Answers>
+      <string>Дифракция</string>
+      <string>Интерференция</string>
+      <string>Рассеяние</string>
+      <string>Преломление</string>
+    </Answers>
+    <CorrectAnswerIndex>0</CorrectAnswerIndex>
+    <DifficultyLevel>4</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется дисциплина, которая занимается исследованием структуры и свойств материалов на микро- и наноуровнях?</Text>
+    <Answers>
+      <string>Нанотехнологии</string>
+      <string>Микроэлектроника</string>
+      <string>Микромеханика</string>
+      <string>Наноматериаловедение</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>4</DifficultyLevel>
+  </Question>
+  <Question>
     <Text>Какой химический элемент был назван в честь героя греческой мифологии?</Text>
     <Answers>
       <string>Торий</string>
       <string>Керий</string>
       <string>Прометий</string>
       <string>Икарий</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>5</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется явление, при котором измерение одной физической величины влияет на результат измерения другой величины?</Text>
+    <Answers>
+      <string>Эффект Холла</string>
+      <string>Эффект Комптона</string>
+      <string>Эффект Зеемана</string>
+      <string>Эффект Гейзенберга</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>5</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется теория, которая утверждает, что наша Вселенная расширяется со временем?</Text>
+    <Answers>
+      <string>Теория относительности</string>
+      <string>Теория квантовых полей</string>
+      <string>Теория большого взрыва</string>
+      <string>Стринг-теория</string>
+    </Answers>
+    <CorrectAnswerIndex>2</CorrectAnswerIndex>
+    <DifficultyLevel>5</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется проблема, которая заключается в том, что вычисление значений функции требует экспоненциального времени в зависимости от размера входных данных?</Text>
+    <Answers>
+      <string>Проблема достижимости</string>
+      <string>Проблема P vs NP</string>
+      <string>Проблема оптимизации</string>
+      <string>Проблема классификации</string>
+    </Answers>
+    <CorrectAnswerIndex>1</CorrectAnswerIndex>
+    <DifficultyLevel>5</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется теория, которая описывает, как элементарные частицы взаимодействуют между собой?</Text>
+    <Answers>
+      <string>Теория гравитации</string>
+      <string>Теория электромагнитного взаимодействия</string>
+      <string>Теория сильного взаимодействия</string>
+      <string>Теория слабого взаимодействия</string>
+    </Answers>
+    <CorrectAnswerIndex>3</CorrectAnswerIndex>
+    <DifficultyLevel>5</DifficultyLevel>
+  </Question>
+  <Question>
+    <Text>Как называется теория, которая утверждает, что каждый компьютерный алгоритм можно перевести на набор инструкций машины Тьюринга?</Text>
+    <Answers>
+      <string>Теория алгоритмов</string>
+      <string>Теория сложности вычислений</string>
+      <string>Теория вычислимости</string>
+      <string>Теория информации</string>
     </Answers>
     <CorrectAnswerIndex>2</CorrectAnswerIndex>
     <DifficultyLevel>5</DifficultyLevel>

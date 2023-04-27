@@ -1,0 +1,11 @@
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\bin\Debug\SmartPhoneMutex.exe.config
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\bin\Debug\SmartPhoneMutex.exe
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\bin\Debug\SmartPhoneMutex.pdb
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\obj\Debug\SmartPhoneMutex.csproj.AssemblyReference.cache
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\obj\Debug\SmartPhoneMutex.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\obj\Debug\SmartPhoneMutex.Form1.resources
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\obj\Debug\SmartPhoneMutex.Properties.Resources.resources
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\obj\Debug\SmartPhoneMutex.csproj.GenerateResource.cache
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\obj\Debug\SmartPhoneMutex.csproj.CoreCompileInputs.cache
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\obj\Debug\SmartPhoneMutex.exe
+D:\WindowsForms\SmartPhoneMutex\SmartPhoneMutex\obj\Debug\SmartPhoneMutex.pdb

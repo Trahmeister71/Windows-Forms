@@ -1,0 +1,11 @@
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\bin\Debug\WordInFilesAsync.exe.config
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\bin\Debug\WordInFilesAsync.exe
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\bin\Debug\WordInFilesAsync.pdb
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\obj\Debug\WordInFilesAsync.csproj.AssemblyReference.cache
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\obj\Debug\WordInFilesAsync.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\obj\Debug\WordInFilesAsync.Form1.resources
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\obj\Debug\WordInFilesAsync.Properties.Resources.resources
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\obj\Debug\WordInFilesAsync.csproj.GenerateResource.cache
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\obj\Debug\WordInFilesAsync.csproj.CoreCompileInputs.cache
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\obj\Debug\WordInFilesAsync.exe
+D:\WindowsForms\WordInFilesAsync\WordInFilesAsync\obj\Debug\WordInFilesAsync.pdb

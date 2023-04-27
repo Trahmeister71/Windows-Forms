@@ -1,0 +1,11 @@
+D:\WindowsForms\ProcessId\ProcessId\bin\Debug\ProcessId.exe.config
+D:\WindowsForms\ProcessId\ProcessId\bin\Debug\ProcessId.exe
+D:\WindowsForms\ProcessId\ProcessId\bin\Debug\ProcessId.pdb
+D:\WindowsForms\ProcessId\ProcessId\obj\Debug\ProcessId.csproj.AssemblyReference.cache
+D:\WindowsForms\ProcessId\ProcessId\obj\Debug\ProcessId.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\ProcessId\ProcessId\obj\Debug\ProcessId.Form1.resources
+D:\WindowsForms\ProcessId\ProcessId\obj\Debug\ProcessId.Properties.Resources.resources
+D:\WindowsForms\ProcessId\ProcessId\obj\Debug\ProcessId.csproj.GenerateResource.cache
+D:\WindowsForms\ProcessId\ProcessId\obj\Debug\ProcessId.csproj.CoreCompileInputs.cache
+D:\WindowsForms\ProcessId\ProcessId\obj\Debug\ProcessId.exe
+D:\WindowsForms\ProcessId\ProcessId\obj\Debug\ProcessId.pdb
