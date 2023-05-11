@@ -592,8 +592,8 @@ namespace Кто_хочет_стать_миллионером
             #endregion
             #region Перерисовка вопроса
             i++;
-            if (i == 2 || i == 5 || i == 7 || i == 9 || i == 12)
-                level++;
+            if (i == 3 || i == 6 || i == 9 || i == 12 )
+            { level++; }
             button2.Enabled = true;
             button4.Enabled = true;
             button3.Enabled = true;

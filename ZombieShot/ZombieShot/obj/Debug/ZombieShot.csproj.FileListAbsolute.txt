@@ -1,0 +1,11 @@
+D:\WindowsForms\ZombieShot\ZombieShot\bin\Debug\ZombieShot.exe.config
+D:\WindowsForms\ZombieShot\ZombieShot\bin\Debug\ZombieShot.exe
+D:\WindowsForms\ZombieShot\ZombieShot\bin\Debug\ZombieShot.pdb
+D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.csproj.AssemblyReference.cache
+D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.Form1.resources
+D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.Properties.Resources.resources
+D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.csproj.GenerateResource.cache
+D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.csproj.CoreCompileInputs.cache
+D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.exe
+D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.pdb

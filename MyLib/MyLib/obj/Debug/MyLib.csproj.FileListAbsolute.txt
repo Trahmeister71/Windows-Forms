@@ -1,0 +1,6 @@
+D:\WindowsForms\MyLib\MyLib\bin\Debug\MyLib.dll
+D:\WindowsForms\MyLib\MyLib\bin\Debug\MyLib.pdb
+D:\WindowsForms\MyLib\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+D:\WindowsForms\MyLib\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+D:\WindowsForms\MyLib\MyLib\obj\Debug\MyLib.dll
+D:\WindowsForms\MyLib\MyLib\obj\Debug\MyLib.pdb
