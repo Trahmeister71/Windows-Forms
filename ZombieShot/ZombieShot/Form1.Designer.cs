@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -93,7 +94,7 @@
             // player
             // 
             this.player.Image = global::ZombieShot.Properties.Resources.up;
-            this.player.Location = new System.Drawing.Point(570, 271);
+            this.player.Location = new System.Drawing.Point(60, 262);
             this.player.Name = "player";
             this.player.Size = new System.Drawing.Size(71, 100);
             this.player.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -104,7 +105,7 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = global::ZombieShot.Properties.Resources.zright;
-            this.pictureBox3.Location = new System.Drawing.Point(582, 105);
+            this.pictureBox3.Location = new System.Drawing.Point(651, 89);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(71, 71);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -115,7 +116,7 @@
             // pictureBox2
             // 
             this.pictureBox2.Image = global::ZombieShot.Properties.Resources.zleft;
-            this.pictureBox2.Location = new System.Drawing.Point(346, 86);
+            this.pictureBox2.Location = new System.Drawing.Point(804, 273);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(71, 71);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
@@ -126,12 +127,13 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::ZombieShot.Properties.Resources.zdown;
-            this.pictureBox1.Location = new System.Drawing.Point(114, 95);
+            this.pictureBox1.Location = new System.Drawing.Point(561, 524);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(71, 71);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox1.TabIndex = 2;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Tag = "zombie";
             // 
             // Form1
             // 
@@ -147,9 +149,12 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Tag = "zombie";
             this.Text = "ZombieShot";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyDown);
             this.KeyUp += new System.Windows.Forms.KeyEventHandler(this.Form1_KeyUp);
             ((System.ComponentModel.ISupportInitialize)(this.player)).EndInit();

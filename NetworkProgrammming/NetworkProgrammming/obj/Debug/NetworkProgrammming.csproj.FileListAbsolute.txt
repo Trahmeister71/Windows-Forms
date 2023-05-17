@@ -1,0 +1,11 @@
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\bin\Debug\NetworkProgrammming.exe.config
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\bin\Debug\NetworkProgrammming.exe
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\bin\Debug\NetworkProgrammming.pdb
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\obj\Debug\NetworkProgrammming.csproj.AssemblyReference.cache
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\obj\Debug\NetworkProgrammming.csproj.SuggestedBindingRedirects.cache
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\obj\Debug\NetworkProgrammming.Form1.resources
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\obj\Debug\NetworkProgrammming.Properties.Resources.resources
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\obj\Debug\NetworkProgrammming.csproj.GenerateResource.cache
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\obj\Debug\NetworkProgrammming.csproj.CoreCompileInputs.cache
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\obj\Debug\NetworkProgrammming.exe
+D:\WindowsForms\NetworkProgrammming\NetworkProgrammming\obj\Debug\NetworkProgrammming.pdb

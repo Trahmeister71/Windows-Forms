@@ -9,3 +9,4 @@ D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.csproj.GenerateResour
 D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.csproj.CoreCompileInputs.cache
 D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.exe
 D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.pdb
+D:\WindowsForms\ZombieShot\ZombieShot\obj\Debug\ZombieShot.Menu.resources
